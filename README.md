@@ -23,7 +23,7 @@ This project presents an interactive Power BI dashboard designed to analyze and 
 - Power Query for ETL and Data Transformation
 
 ## Dashboard Snapshots
-(You can add screenshots here once you export images from the Power BI dashboard)
+![healthCareProvider](Healthcare.jpg)
 
 ## How to Use
 1. Clone or download the repository.

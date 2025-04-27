@@ -52,7 +52,9 @@ This project presents an interactive Power BI dashboard designed to analyze and 
 
 ## Author
 Chuks Isaac
+
 Data Analytics & Business Intelligence Enthusiast
-🔗 LinkedIn | 🔗 GitHub Portfolio
+
+🔗 LinkedIn ![Linkedln](www.linkedin.com/in/chukwuemekaanyakwu2409)| 🔗 GitHub Portfolio ![Portofolio](https://softechanalytics.github.io/)
 
 
